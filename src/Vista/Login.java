@@ -168,12 +168,12 @@ public class Login extends javax.swing.JFrame {
         jLabel8.setText("Informática y Programación");
         jPanel1.add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(21, 183, 230, -1));
 
-        jLabel9.setText("Desarrollado por Angel Sifuentes Flores");
+        jLabel9.setText("Desarrollado por Javier Arteaga");
         jPanel1.add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(21, 218, -1, 89));
 
         jButton1.setBackground(new java.awt.Color(255, 0, 0));
         jButton1.setForeground(new java.awt.Color(255, 255, 255));
-        jButton1.setText("Suscribete a mi Canal");
+        jButton1.setText("Sus");
         jButton1.setFocusable(false);
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
